@@ -1,0 +1,333 @@
+<?php
+
+$_LANG_CONFIG['DATA'] = array(
+	'native'=>'Farsi(فارسی) - Iran',
+	'farsi'=>'Farsi',
+	'last_update'=>'11/20/2018',
+	'author'=>'Bozorg Mizban',
+	'email'=>'Mail@Bzrg.ir',
+	'url'=>'http://BozorgSite.ir'
+);
+$_LANG['LAST_COMMENTS'] = 'آخرین دیدگاه ها';
+$_LANG['THEME'] = 'پوسته';
+$_LANG['THEMES'] = 'پوسته ها';
+$_LANG['CHANGE_THEME'] = 'تغیر پوسته';
+$_LANG['SELECT_THEME'] = 'انتخاب پوسته';
+$_LANG['REMEMBER_ME'] = 'مرا به یاد بسپار';
+$_LANG['USERNAME'] = 'شناسه';
+$_LANG['PASSWORD'] = 'رمز ';
+$_LANG['COMMENTS'] = 'دیدگاه ها';
+$_LANG['INVALID_CAPTCHA'] = 'کد امنیتی نادرست';
+$_LANG['NAME'] = 'نام';
+$_LANG['EMAIL'] = 'پیامه';
+$_LANG['TYPE_THE_COMMENT_HERE'] = 'دیدگاه خود را اینجا تایپ کنید';
+$_LANG['COPY_THE_TEXT_ON_THE_RIGHT'] = 'کپی متن در سمت راست';
+$_LANG['NEWER_POSTS'] = 'پست های جدید';
+$_LANG['OLDER_POSTS'] = 'پست های قدیمی';
+$_LANG['FORGOT_PASSWORD'] = 'رمز را فراموش کرده اید';
+$_LANG['INCORRECT_USERNAME_OR_PASSWORD'] = 'شناسه و یا رمز نادرست';
+$_LANG['LOGIN'] = 'وارد شدن';
+$_LANG['NEW_CATEGORY'] = 'دسته جدید';
+$_LANG['ENTER_THE_NAME_OF_THE_NEW_CATEGORY'] = 'وارد کردن نام برای دسته جدید';
+$_LANG['ADD_CATEGORY'] = 'ایجاد دسته بندی';
+$_LANG['CATEGORIES_IN_YOUR_BLOG'] = 'دسته بندی در بزرگ سایت شما';
+$_LANG['DELETE'] = 'پاک کردن';
+$_LANG['ENTER_TITLE_HERE'] = 'اینجا عنوان را وارد کنید';
+$_LANG['SELECT_A_CATEGORY'] = 'یک دسته انتخاب کنید';
+$_LANG['ALLOW_COMMENTS'] = 'اجازه ارسال دیدگاه';
+$_LANG['ALLOW_YOUR_USERS_TO_COMMENT_YOUR_PUBLICATIONS'] = 'به کاربر اجازه میدهد تا دیدگاهش را منتشر کند.';
+$_LANG['STICKY_POST'] = 'ارسال مطلب مهم';
+$_LANG['SELECT_THIS_OPTION_IF_YOU_WANT_TO_HIGHLIGHT_YOUR_PUBLICATION'] = 'اگر میخواهید انتشارتان برجسته شود ،این گزینه را انتخاب کنید.';
+$_LANG['PUBLISH'] = 'انتشار';
+$_LANG['GET_VIDEO_INFORMATION'] = 'نمایش اطلاعات فیلم';
+$_LANG['VIDEO_URL'] = 'فیلم URL آدرس';
+$_LANG['LOADING'] = 'در حال بارگزاری';
+$_LANG['VIDEO_INFORMATION'] = 'اطلاعات  فیلم';
+$_LANG['ENTER_QUOTE_HERE'] = 'اینجا نقل قول را وارد کنید';
+$_LANG['TIMEZONE'] = 'منطقه زمانی';
+$_LANG['BLOG_ADDRESS'] = '(URL)آدرس سایت';
+$_LANG['BLOG_BASE_PATH'] = 'مسیر اصلی سایت';
+$_LANG['POSTS_PER_PAGE'] = 'مطالب در هر صفحه';
+$_LANG['RSS_ITEMS'] = 'RSS آیتم های';
+$_LANG['ADVANCED_OPTIONS_FOR_POST'] = 'گزینه های پیشرفت برای مطلب';
+$_LANG['BLOG_TITLE'] = 'عنوان سایت';
+$_LANG['BLOG_SLOGAN'] = 'توضیح سایت';
+$_LANG['ABOUT_YOUR_BLOG'] = 'در باره وبسایت';
+$_LANG['FOOTER_TEXT'] = 'متن پانویس';
+$_LANG['LANGUAGE'] = 'زبان';
+$_LANG['CURRENT_PASSWORD'] = 'رمز فعلی';
+$_LANG['NEW_PASSWORD'] = 'رمز جدید';
+$_LANG['SAVE_CHANGES'] = 'ذخیره تغیرات';
+$_LANG['CHANGE_USERNAME'] = 'تغیر نام کابری';
+$_LANG['CHANGE_PASSWORD'] = 'تغیر رمز';
+$_LANG['CHANGES_HAS_BEEN_SAVED_SUCCESSFULLY'] = 'تغیرات با موافقیت ذخیره شد';
+$_LANG['USERNAME_HAS_BEEN_CHANGED_SUCCESSFULLY'] = 'شناسه با موافقیت تغیر کرد';
+$_LANG['PASSWORD_HAS_BEEN_CHANGED_SUCCESSFULLY'] = 'رمز با موافقیت تغییر کرد';
+$_LANG['CURRENT_PASSWORD_INCORRECT'] = 'رمز فعلی نادرست می باشد';
+$_LANG['INSTALL'] = 'نصب';
+$_LANG['UNINSTALL'] = 'پاک کردن';
+$_LANG['CONFIGURE'] = 'پیکربندی';
+$_LANG['CREATED_BY'] = 'ایجاد شده توسط';
+$_LANG['CATEGORY_HAS_ONE_OR_MORE_POST'] = ' این دسته یک یا چند پست دارد.شما تا زمانی که آن را خالی نکنید نمیتوانید آن را پاک کردن کنید.';
+$_LANG['AT_LEAST_ONE_CATEGORY'] = 'دسته را پاک نکنید ،چون شما حداقل به یک دسته نیازمندید.';
+$_LANG['ARE_YOU_SURE'] = 'آیا مطمئن هستید';
+$_LANG['VIEW'] = 'نمایش';
+$_LANG['EDIT'] = 'ویرایش';
+$_LANG['TIMESTAMP_FORMAT'] = 'روش برچسب زمان';
+$_LANG['SELECT_A_TIMEZONE_FOR_A_CORRECT_DATE_VISUALIZATION'] = 'برای تجسم صحیح تاریخ ،منطقه زمانی صحیح را انتخاب کنید.';
+$_LANG['AMOUNT_OF_POSTS_THAT_YOU_WISH_TO_SEE_PER_PAGE'] = 'تعداد مطالبی را که میخواهید در هر صفحه مشاهده کنید .';
+$_LANG['AMOUNT_OF_POSTS_THAT_YOU_WISH_TO_SEE_ON_RSS'] = 'تعداد مطالبی که میخواهید درRss مشاهده کنید.';
+$_LANG['ADVANCED_OPTIONS_WHEN_PUBLISHING_CONTENT'] = 'گزینه های پیشرفته زمان انتشار محتوای.';
+$_LANG['ADMINISTRATORS_USERNAME'] = 'مدیریت\' نام کاربر ها.';
+$_LANG['DO_NOT_FORGET_THIS_PASSWORD'] = 'این رمز را فرامش نکنید.';
+$_LANG['NEW_SESSION_STARTED'] = 'شروع ورود جدید';
+$_LANG['SESSION_FAIL'] = ' ورود ناموفق به پنل';
+$_LANG['SESSION_START'] = 'ورود به پنل';
+$_LANG['DATE'] = 'تاریخ';
+$_LANG['LAST_SESSIONS'] = 'زمان آخرین ورود';
+$_LANG['DASHBOARD'] = 'پیشگاه';
+$_LANG['VIEW_BLOG'] = 'نمایش سایت';
+$_LANG['LOGOUT'] = 'خروج';
+$_LANG['POSTS'] = 'پست ها';
+$_LANG['SIMPLE'] = 'ساده';
+$_LANG['VIDEO'] = 'ویدیو';
+$_LANG['QUOTE'] = 'نقل قول';
+$_LANG['POSTING_WITH_RICH_FORMATTING'] = 'ارسال مطلب همرا با پوسته بندی';
+$_LANG['AN_EASY_WAY_TO_PUBLISH_VIDEOS'] = 'یک راه آسان برای انتشار فیلم ها';
+$_LANG['AN_EASY_WAY_TO_PUBLISH_QUOTES'] = 'یک راه آسان برای انتشار نقل قول ها';
+$_LANG['NEW_SIMPLE_POST'] = 'ارسال مطلب ساده';
+$_LANG['NEW_VIDEO_POST'] = 'ارسال فیلم';
+$_LANG['NEW_QUOTE_POST'] = 'ارسال نقل قول جدید';
+$_LANG['MANAGE_POSTS'] = 'مدیریت مطالب';
+$_LANG['SETTINGS'] = 'تنظیمات';
+$_LANG['GENERAL_SETTINGS'] = 'تنظیمات عمومی';
+$_LANG['ADVANCED_SETTINGS'] = 'تنظیمات پیشرفته';
+$_LANG['MANAGE_CATEGORIES'] = 'مدیریت دسته بندی';
+$_LANG['USERNAME_AND_PASSWORD'] = 'شناسه و رمز';
+$_LANG['MANAGE_PLUGINS'] = 'مدیریت افزونه ها';
+$_LANG['PLUGINS'] = 'افزونه ها';
+$_LANG['EDIT_POST'] = 'ویرایش پست';
+$_LANG['SIGN_IN_TO_BzrgSite_ADMIN_AREA'] = 'ورود به بخش مدیریت';
+$_LANG['POST_HAS_BEEN_PUBLISHED_SUCCESSFULLY'] = 'مطلب با موفقیت منتشر شد';
+$_LANG['PLEASE_ENABLE_JAVASCRIPT_IN_YOUR_BROWSER'] = 'لطفا جاوااسکریپت را در مرورگر خود فعال کنید.';
+$_LANG['INSTALLATION_COMPLETE'] = 'نصب به صورت کامل';
+$_LANG['DEPENDENCIES'] = 'وابستگی ها';
+$_LANG['PHP_VERSION'] = 'PHP نسخه';
+$_LANG['PASS'] = 'رمز';
+$_LANG['FAIL'] = 'خطا';
+$_LANG['PHP_MODULE'] = 'PHP ماژول';
+$_LANG['CONFIGURATION'] = 'پیکربندی';
+$_LANG['EXPERT_MODE'] = 'شکل پیشرفته';
+$_LANG['ADMINISTRATOR_USERNAME'] = 'شناسه مدیریت';
+$_LANG['ADMINISTRATOR_PASSWORD'] = 'رمز مدیریت';
+$_LANG['ADMINISTRATOR_EMAIL'] = 'پیامه مدیریت';
+$_LANG['WELCOME_TO_BzrgSite'] = 'به بزرگ سایت خوش آمدید';
+$_LANG['CHOOSE_YOUR_LANGUAGE'] = 'انتخاب زبان';
+$_LANG['WRITING_TEST_ON_CONTENT_DIRECTORY'] = 'نوشتن آزمایشی در دایرکتوری محتوای';
+$_LANG['INSTALLATION_LINE1'] = 'تبریک!';
+$_LANG['INSTALLATION_LINE2'] = 'بزرگ سایت شما اکنون به صورت کامل نصب شده است  .';
+$_LANG['INSTALLATION_LINE3'] = 'برای مدیریت وببزرگ سایت به آدرس زیر بروید';
+$_LANG['INSTALLATION_LINE4'] = 'ویا بازدید از وبسایت جدیدتان';
+$_LANG['INSTALLATION_LINE5'] = 'اگر نیاز  به پشتیبانی دارید لطفا از انجمن بازدید کنید';
+$_LANG['WELCOME_POST_TITLE'] = 'پست آزمایشی';
+
+$_LANG['WELCOME_POST_LINE1'] = 'تبریک میگوییم،وبسایت شما نصب و قابل استفاده است. این یک پست آزمایشی است که اگر آن را مشاهده میکنید به معنای نصب صحیح و بدون اشکال بزرگ سایت برای شما است.';
+$_LANG['WELCOME_POST_LINE2'] = 'این صفحه پیشخوان وب سایت شما است که از طریق بزرگ میزبان امکان تغییر آن را دارید، شما میتوانید قالب سایت را تغییر دهید، همچنین میتوانید صفحات، مطالب و تصاویر جدید به آن اضافه کنید، در بزرگ سایت شما امکان استفاده از افزونه های مختلف را دارید، برای شروع تغییرات و انتشار 
+ از پیشگاه مدریت خود به آدرس {{DASHBOARD_LINK}} استفاده کنید';
+$_LANG['WELCOME_POST_LINE3'] = 'همچنین با ما در ارتباط باشید {{WEB_LINK}}, {{LINKDIN_LINK}} و {{EMAIL_LINK}}.';
+
+$_LANG['ENABLE_FRIENDLY_URLS'] = 'فعال سازی یو ال آر های محبوب';
+$_LANG['COPY_THIS_CONTENT_ON_THE_FILE'] = '  کپی این مطلب در فایل ".htaccess". فایل باید در مسیر اصلی دامنه شما باشد.سرور باید دارای ماژول های بارگزاری کننده و پیکربندی صحیح برای استفاده از این گزینه داشته باشد';
+$_LANG['INSERT_PICTURE'] = 'درج تصویر';
+$_LANG['PERMALINK'] = 'لینک ثابت';
+$_LANG['FRIENDLY_URLS'] = 'محبوب URLs';
+$_LANG['UPLOADING'] = 'در حال ارسال';
+$_LANG['READ_MORE'] = 'بیشتر بخوانید';
+$_LANG['AUTHOR'] = 'نویسنده';
+$_LANG['THE_PLUGIN_IS_INSTALLED_CORRECTLY'] = 'افزونه به صورت صحیح نصب شد. اگر پوسته سایت به صورت صحیح پشتیبانی کند باید در صفحات نمایش داده شود.';
+$_LANG['SHORT_DESCRIPTION_NO_MORE_THAN'] = 'توضیحات مختصر. بیشتر از صد و پنجاه نویسه نباشد.';
+$_LANG['NEW_COMMENT'] = 'دیدگاه جدید';
+$_LANG['REGIONAL_SETTINGS'] = 'تنظیمات محلی';
+$_LANG['LOCALE'] = 'محلی';
+$_LANG['THIS_FIELD_IS_SET_EACH_TIME_YOU_CHANGE_THE_LANGUAGE_OF_THE_BLOG'] = 'این فیلد جایگزین می کند تنظیماتی که هر زمان  شما زبان وبسایت را تغییر دهید. در صورت نیاز شما میتوانید به چیز مناسب تری تغییر دهید. توجه داشته باشید که گزینه وارده ی شما باید در سرورتان پشتیبانی شود.';
+$_LANG['UNCATEGORIZED'] = 'دسته بندی نشده';
+$_LANG['UNCATEGORIZE'] = 'مطالب فاقد دسته مشخص';
+$_LANG['NEWS'] = 'اخبار';
+$_LANG['NEWSCAT'] = 'خبرهای منتشر شده در بزرگ سایت';
+$_LANG['ARTICLES'] = 'مقالات';
+$_LANG['ARTICLE'] = 'مقاله های منتشر شده در بزرگ سایت';
+$_LANG['MUSIC'] = 'موزیک';
+$_LANG['VIDEOS'] = 'ویدیوها';
+$_LANG['POWERED_BY_BzrgSite'] = 'قدرت گرفته شده از بزرگ سایت';
+$_LANG['CUSTOM'] = 'دلخواه';
+$_LANG['SELECT_A_FORMAT_FOR_DISPLAYING_THE_DATES'] = 'انتخاب نحوه ی نمایش تاریخ و یا ایجاد گزینه سفارشی شخصی برای آن.';
+$_LANG['ENABLE_WYSIWYG_EDITOR'] = 'فعال سازی ویرایشگر WYSIWYG';
+$_LANG['ENABLE_OR_DISABLE_THE_WYSIWYG_EDITOR'] = 'فعال و یا غیرفعال سازی ویرایشگر WYSIWYG';
+$_LANG['IMAGE_SETTINGS'] = 'تنظیمات تصویر';
+$_LANG['AUTOMATIC_IMAGE_RESIZING'] = 'تغییر اندازه تصویر به صورت خودکار';
+$_LANG['THUMBNAILS'] = 'نمایه';
+$_LANG['ENABLE_AUTOMATIC_IMAGE_RESIZING'] = 'فعال کردن تغییر اندازه تصویر به صورت خودکار';
+$_LANG['ENABLE_THUMBNAILS'] = 'نمایه فعال';
+$_LANG['WIDTH'] = 'پهنا';
+$_LANG['HEIGHT'] = 'درازا';
+$_LANG['OPTION'] = 'گزینه';
+$_LANG['THIS_OPTION_AUTOMATICALLY_CHANGES_THE_IMAGE'] = 'این گزینه به صورت خودکار اندازه تصویر را بعد از بارگزاری تغییر میدهد.';
+$_LANG['ENABLE_THIS_OPTION_IF_YOU_WANT_TO_GENERATE'] = 'این گزینه را فعال کنید اگر قصد دارید نمایه زمان بارگزاری عکس ایجاد شود.';
+$_LANG['THERE_ARE_NO_PUBLISHED_COMMENTS'] = 'هیچ دیدگاهی منتشر نشده است.';
+$_LANG['THERE_ARE_NO_DRAFT_POSTS'] = 'مطالب پیش نویس وجود ندارند';
+$_LANG['AUTOMATIC'] = 'اندازه خودکار';
+$_LANG['EXACT'] = 'اندازه اصلی';
+$_LANG['PORTRAIT'] = 'بریده عمودی';
+$_LANG['LANDSCAPE'] = 'بریده افقی';
+$_LANG['CROP'] = 'بریده چهارگوش';
+$_LANG['YOU_CAN_USE_HTML_OR_MARKDOWN_SYNTAX'] = 'شما میتوانید از html ویا روش نشان گذاری استفاده کنید.';
+$_LANG['DRAFT'] = 'پیش نویس';
+$_LANG['YOU_HAVE_A_NEW_COMMENT'] = 'شما یک دیدگاه جدید دارید';
+$_LANG['LOGIN_FAILED_ATTEMPT'] = 'تلاش برای ورود ناموفق.';
+$_LANG['NOTIFICATIONS'] = 'اطلاعیه';
+$_LANG['PREVIEW'] = 'پیش نمایش';
+$_LANG['PLEASE_COMPLETE_ALL_FIELDS'] = 'لطفا تمام فیلد ها را کامل کنید';
+$_LANG['THERE_ARE_NO_POSTS'] = 'هیچ مطلبی وجود ندارد.';
+$_LANG['BACK_TO_BLOG'] = 'بازگشت به سایت';
+$_LANG['LOW_DETECTION_LEVEL'] = 'سطح تشخیص پایین';
+$_LANG['MEDIUM_DETECTION_LEVEL'] = 'سطح تشخیص متوسط';
+$_LANG['HIGH_DETECTION_LEVEL'] = 'سطح تشخیص بالا';
+$_LANG['SPAM_CONTROL'] = 'کنترل هرزنامه';
+$_LANG['DISAPPROVE'] = 'رد کردن';
+$_LANG['APPROVE_SPAM_DETECTED'] = 'نشان (به عنوان هرزنامه)';
+$_LANG['APPROVE'] = 'نشان';
+$_LANG['API_KEY'] = 'API کلید';
+$_LANG['INSERT_THE_API_KEY_HERE'] = 'وارد کنید کد ای پی آی را اینجا. اگر کد را ندارید یا با این امکان آشنا نیستید، طفا لینک بعدی را چک کنید.';
+$_LANG['SPAM_MONITOR'] = 'نمایشگر هرزنامه';
+$_LANG['ENABLE_THIS_FEATURE_TO_PROTECT_AGAINST_XSS'] = 'برای مقابله با حملات XSS و اسکریپت های آن این گزینه را فعال کنید تا کد ها را پاکسازی کند.';
+$_LANG['ENABLE_THIS_FEATURE_TO_MODERATE_COMMENTS'] = 'فعال سازی ویژگی تعدیل دیدگاه ها قبل از انتشار آنها.';
+$_LANG['ENABLE_THIS_FEATURE_TO_PROTECT_YOUR_COMMENTS'] = 'فعال سازی ویژگی محافظت از دیدگاه هاتتان در مقابل هرزنامه ها';
+$_LANG['ENABLE_THIS_FEATURE_TO_DELETE_SPAM_AUTO'] = 'فعال سازی ویژگی پاک کردن خودکار هرزنامه ها.';
+$_LANG['COMMENTS_DETECTED_AS_SPAM_WILL_BE_FILTERED'] = 'دیدگاه ها شناسای شده به عنوان هرزنامه ،پاک خواهد شد.';
+$_LANG['NOTIFY_WHEN_A_USER_MAKES_A_COMMENT'] = 'اطلاع زمانی که کاربر دیدگاهی را ایجاد میکند.';
+$_LANG['NOTIFY_WHEN_A_USER_FAILS_TO_LOGIN'] = 'اطلاع زمانی که کاربر موفق به ورود نمی شود.';
+$_LANG['NOTIFY_WHEN_A_USER_SUCCESSES_LOGIN'] = 'اطلاع زمانی که کاربر با موافقیت وارد می شود.';
+$_LANG['NOTIFICATIONS_WILL_BE_SENT_TO_THIS_EMAIL'] = 'اطلاع رسانی زمانی که این پیام ارسال میشود';
+$_LANG['NOTIFICATIONS_WILL_BE_SENT_FROM_THIS_EMAIL'] = 'اطلاعیه های شما از این پیام ارسال میشود.';
+$_LANG['EMAIL_ACCOUNTS_SETTINGS'] = 'تنظیمات حساب پیامه';
+$_LANG['NOTIFY_ME_FROM'] = 'آگاه سازی از من';
+$_LANG['NOTIFY_ME_TO'] = 'آگاه سازی به من';
+$_LANG['NOTIFICATIONS_VIA_EMAIL'] = 'آگاه سازی از طریق پیام';
+$_LANG['YOUR_COMMENT_IS_UNDER_REVIEW_IT_WILL_BE'] = 'دیدگاه شما در دست بررسی است،آن به زودی منتشر میشود.';
+$_LANG['SANITIZE_HTML_CODE'] = 'پاکسازی کد HTML';
+$_LANG['MODERATE_COMMENTS'] = 'دیدگاه ها در حد متوسط';
+$_LANG['ENABLE_SPAM_MONITOR'] = 'فعال سازی دیده بان بر هرزنامه';
+$_LANG['AUTOMATICALLY_DELETE_SPAM'] = 'پاک کردن خودکار اسپم';
+$_LANG['COMMENT_SETTINGS'] = 'تنظیمات دیدگاه ها';
+$_LANG['MANAGE_COMMENTS'] = 'مدیریت دیدگاه ها';
+$_LANG['BASIC_CONFIGURATION_OF_YOUR_BLOG'] = 'پیکر بندی اصلی برای سایت';
+$_LANG['SIMPLE_POST'] = 'مطلب ساده';
+$_LANG['VIDEO_POST'] = 'ارسال فیلم';
+$_LANG['QUOTE_POST'] = 'ارسال نقل قول';
+$_LANG['CATEGORIES'] = 'دسته بندی';
+$_LANG['TAGS'] = 'برچسب ها';
+$_LANG['LINK'] = 'لینک';
+$_LANG['KEYWORDS'] = 'کلمات کلیدی';
+$_LANG['MANAGE'] = 'مدیریت';
+$_LANG['404_PAGE_NOT_FOUND'] = 'با پوزش،صفحه ای که شما به دنبال آن هستید، وجود ندارد.';
+$_LANG['NO_TITLE'] = 'بدون عنوان';
+$_LANG['TITLE'] = 'عنوان';
+$_LANG['TYPE'] = 'نوع';
+$_LANG['CATEGORY'] = 'دسته';
+$_LANG['PUBLISH_DATE'] = 'تاریخ انتشار';
+$_LANG['LAST_MODIFIED'] = 'تاریخ آخرین تغییر';
+$_LANG['COMMENT'] = 'دیدگاه';
+$_LANG['POST'] = 'پست';
+$_LANG['SLUG'] = 'توضیح';
+$_LANG['SITE'] = 'سایت';
+$_LANG['SITE_TITLE'] = 'عنوان سایت';
+$_LANG['SITE_DESCRIPTION'] = 'توضیحات سایت';
+$_LANG['TAGS_SEPARATED_BY_COMMA'] = 'برچسب ها با کاما از هم جدا شوند.';
+$_LANG['KEYWORDS_SEPARATED_BY_COMMA'] = 'کلمات کلیدی با کاما از هم جدا شوند.';
+$_LANG['ROBOTS'] = 'روبات';
+$_LANG['WEBMASTER_TOOLS'] = 'ابزار مدیریت وب';
+$_LANG['GOOGLE_WEBMASTER_TOOLS'] = 'ابزار مدیریت وب گوگل - کد تایید کننده';
+$_LANG['BING_WEBMASTER_TOOLS'] = 'ابزار مدیریت وب بینگ - کد تایید کننده';
+$_LANG['SEO_OPTIONS'] = 'گزینه های موتور جستجو';
+$_LANG['SHARE'] = 'اشتراک';
+$_LANG['ALLOW_COMMENTS_ON_THIS_POST'] = 'امکان درج دیدگاه بر این مطلب.';
+$_LANG['MULTIPLE_DIRECTIVES_MAY_BE_COMBINED_IN'] = 'ممکن است ترکیب دستورات چندگانه با کامااز هم جداشده باشند. مثال: nofollow, noindex, noarchive.';
+$_LANG['DRAFT_POSTS'] = 'مطالب پیش نویس';
+$_LANG['POSITION'] = 'موقعیت';
+
+$_LANG['UPLOAD_A_NEW_IMAGE'] = 'بارگزاری یک تصویر جدید';
+$_LANG['OR'] = 'یا';
+$_LANG['SELECT_AN_IMAGE_FROM_YOUR_BAG'] = 'یک تصویر از رایانه خود انتخاب کنید';
+
+$_LANG['THERE_IS_A_NEW_VERSION'] = 'یک نسخه جدید از بزرگ سایت  در دسترس وجود دارد.';
+$_LANG['VERSION'] = 'نسخه';
+$_LANG['RELEASE_DATE'] = 'تاریخ انتشار';
+
+$_LANG['NEW_PAGE'] = 'صفحه جدید';
+$_LANG['SET_AS_HOMEPAGE'] = 'تنظیم به عنوان پیشخوان سایت';
+$_LANG['THERE_IS_A_PAGE_AS_HOMEPAGE'] = 'یک صفحه به عنوان پیشخوان وجود دارد،برای پاک کردن این صفحه اینجا کلیک کنید.';
+$_LANG['MANAGE_PAGES'] = 'مدیریت صفحات';
+$_LANG['PAGE'] = 'صفحه';
+$_LANG['PAGES'] = 'صفحات';
+$_LANG['PAGE_HAS_BEEN_PUBLISHED_SUCCESSFULLY'] = 'صفحه با موافقیت منتشر شده است.';
+$_LANG['THERE_ARE_NO_PAGES'] = 'هیچ صفحه ای وجود ندارد.';
+$_LANG['HOME'] = 'پیشخوان';
+$_LANG['REQUEST_NEW_PASSWORD'] = 'درخواست رمز جدید';
+
+$_LANG['NEW_POST'] = 'پست جدید';
+$_LANG['QUICK_START'] = 'شروع سریع';
+$_LANG['QUALITY'] = 'وضوح';
+$_LANG['NOTES'] = 'یاداشت ها';
+$_LANG['WEBSITE'] = 'وب سایت';
+$_LANG['COMPLETE_THIS_FIELD_IF_YOU_WANT_USE_DISQUS'] = 'کامل کنید این فیلد را اگه شما می خواهید استفاده شود از دیدگاه ها دیس کاس  در بزرگ سایت.این ویژگی به پوسته بستگی دارد.اگر شما نیاز به اطلاعات بیشتری در این مورد دارید،لطفا لینک بعدی را بررسی کنید.';
+$_LANG['COMPLETE_THIS_FIELD_IF_YOU_WANT_USE_FACEBOOK_COMMENTS'] = 'کامل کنید این فیلد را گاگر میخواهید استفاده شود از دیدگاه ها فیس بوک در بزرگ سایت.این قابلیت به پوسته بستگی دارد. اگر شما نیاز به اطلاعات بیشتری در این مورد دارید،لطفاً لینک بعدی را بررسی کنید';
+
+$_LANG['WE_ARE_SENT_YOU_AN_EMAIL'] = 'ما به شما یک پیام فرستاده ایم،لطفا در این مورد هرزنامه پیامتان را بررسی کنید.';
+$_LANG['AN_ERROR_OCURRED_WHILE'] = 'خطا به هنگام ارسال پیام رخ داده است.';
+
+$_LANG['EMAIL_NOTIFICATION_FAIL_LOGIN'] = '
+<p>این یک آگاه سازی از سایت شماست {{BLOG_NAME}}</p>
+<p>یک نفر قصد دسترسی به بزرگ سایت با شناسه : {{USERNAME}} و رمز : {{PASSWORD}} را دارد</p>
+<p>آدرس آی پی {{IP}} که میخواهد متصل شود.</p>
+';
+
+$_LANG['EMAIL_NOTIFICATION_SESSION_STARTED'] = '
+<p>این یک آگاه سازی از سایت شماست {{BLOG_NAME}}</p>
+<p>با شناسه با موافقیت به بخش مدیریت پیوست : {{USERNAME}}</p>
+<p>آدرس آی پی {{IP}} که می خواهد متصل شود.</p>
+';
+
+$_LANG['EMAIL_NOTIFICATION_NEW_COMMENT'] = '
+<p>این یک اعلان از وب بزرگ سایت است. {{BLOG_NAME}}</p>
+<p>شما یک دیدگاه جدید در وب بزرگ سایت دارید..</p>
+<p>{{COMMENT}}</p>
+<p>نویسنده : {{AUTHOR_NAME}}</p>
+<p>پیامه : {{AUTHOR_EMAIL}}</p>
+<p>آی پی: {{IP}}</p>
+';
+
+$_LANG['EMAIL_NOTIFICATION_FORGOT_PASSWORD'] = '
+<p>این یک اعلان از وبسایت  {{BLOG_NAME}} می باشد.</p>
+<p>رمزتان رافراموش کرده ای؟ مشکلی نیست!</p>
+<p>اینجا کلیک کنید: {{FORGOT_LINK}}</p>
+';
+
+$_LANG['REGIONAL'] = 'محلی';
+$_LANG['INSERT_IMAGE_FROM_URL'] = 'درج تصویر از آدرس اینترنتی';
+
+$_LANG['BLUDIT_SYNC'] = 'Bludit هماهنگ سازی';
+$_LANG['BzrgSite_URL_SYNC'] = 'آدرس یو آر ال هماهنگ سازی بزرگ سایت';
+$_LANG['BzrgSite_KEY_SYNC'] = ' کلید هماهنگ سازی بزرگ سایت';
+
+$_LANG['CATEGORY_NAME'] = 'نام دسته';
+$_LANG['CATEGORY_SLUG'] = 'توضیح دسته بندی';
+
+$_LANG['INSTALLED_PLUGINS'] = 'افزونه های نصب شده';
+$_LANG['PLUGINS_AVAILABLE_FOR_INSTALL'] = 'افزونه های در دسترس برای نصب';
+
+$_LANG['ABSOLUTE_URL_ADDRESS_OF_YOUR_BLOG'] = 'آدرس یو آر ال مطلق به سایت شما مثال http://www.domain.com/directory/';
+$_LANG['ABSOLUTE_ADDRESS_THAT_CONTAINS_THE_BLOGS_FILE_SYSTEM'] = 'آدرس مطلق که شامل وبسایت\'ها فایل سیستم, اگر محتوای سایت را در مسیر اصلی ریشه قرار دادید تنها  "/" را بنویسید, و اگر در مسیری جز آن قرار دادید  "/مسیر/" را بنویسید.';
+
+$_LANG['COVER_ATTRIBUTE'] = 'مشخصه کاور';
+
+?>
