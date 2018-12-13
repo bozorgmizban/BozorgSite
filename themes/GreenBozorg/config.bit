@@ -1,0 +1,15 @@
+<?php
+
+$theme = array
+(
+	'name'=>'بزرگ سایت سبز',
+	'description'=>'پوسته اصلی بزرگ سایت',
+	'notes'=>'توجه: شما میتوانید لوگو را از مسیر themes/echo/css/img/logo.png تغییر دهید.',
+	'creator'=>'بزرگ سایت',
+	'version'=>'1.0',
+	'last_update'=>'05/02/2014', // dd/mm/yyyy
+	'url'=>'http://www.BozorgSite.ir', // http://xxxxxxxxxxxxx
+	'version_supported'=>array('1.0', '1.0.1') // BozorgSite version supported
+);
+
+?>
