@@ -1,9 +1,9 @@
 <?php
 
 /*
- * Nibbleblog -
- * http://www.nibbleblog.com
- * Author Diego Najar
+* Bozorg Site
+* http://BozorgSite.ir
+
 
  * All Nibbleblog code is released under the GNU General Public License.
  * See COPYRIGHT.txt and LICENSE.txt.
