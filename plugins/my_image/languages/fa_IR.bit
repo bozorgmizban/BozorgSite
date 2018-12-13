@@ -1,0 +1,9 @@
+<?php
+
+$_PLUGIN_CONFIG['LANG'] = array(
+	'NAME'=>'تصویر',
+	'DESCRIPTION'=>'نمایش تصویر در بزرگ سایت',
+	'CAPTION'=>'توضیحات تصویر'
+);
+
+?>

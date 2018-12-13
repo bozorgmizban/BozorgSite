@@ -1,0 +1,9 @@
+<?php
+
+$_PLUGIN_CONFIG['LANG'] = array(
+	'NAME'=>'کد HTML',
+	'DESCRIPTION'=>'این پلاگین به شما اجازه میدهد یک کد به  بزرگ سایت خود اضافه کنید',
+	'HTML_CODE'=>'کد HTML'
+);
+
+?>

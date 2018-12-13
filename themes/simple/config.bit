@@ -1,0 +1,16 @@
+<?php
+
+$theme = array
+(
+	'name'=>'ساده',
+	'description'=>'قالب ساده اصلی',
+	'notes'=>'پشتیبانی از کامنت فیسبوک و دیس کاس',
+	'author'=>'بزرگ میزبان',
+	'version'=>'1.0',
+	'last_update'=>'25/06/2018', // dd/mm/yyyy
+	'url'=>'http://BozorgSite.ir', // http://xxxxxxxxxxxxx
+	'template'=>array('blog'=>'default.bit', 'post'=>'default.bit', 'page'=>'default.bit'),
+	'version_supported'=>array('1.0','1.0.1') // BozorgSite version supported
+);
+
+?>
