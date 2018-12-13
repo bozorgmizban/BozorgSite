@@ -369,11 +369,11 @@ li.about{
 		overflow:hidden;
 	}
 	.open{
-		-webkit-transform: translateX(320px) scale(1);
-		-moz-transform: translateX(320px) scale(1);
-		-ms-transform: translateX(320px) scale(1);
-		-o-transform: translateX(320px) scale(1);
-		transform: translateX(320px) scale(1);
+		-webkit-transform: translateX(-320px) scale(1);
+		-moz-transform: translateX(-320px) scale(1);
+		-ms-transform: translateX(-320px) scale(1);
+		-o-transform: translateX(-320px) scale(1);
+		transform: translateX(-320px) scale(1);
 	}
 	.open aside{
 		overflow:visible;
