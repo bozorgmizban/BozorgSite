@@ -1,0 +1,15 @@
+﻿<?php
+
+$theme = array
+(
+	'name'=>'نمایه',
+	'description'=>'قالب اختصاصی برای هنرنمامعمار',
+	'notes'=>'توجه: برای تغییر فایل لوگو آن را در این آدرس بارگزاری کنید /themes/HnarNama/css/img/logo.png',
+	'creator'=>'بزرگ میزبان',
+	'version'=>'4.0',
+	'last_update'=>'12/12/2018', // dd/mm/yyyy
+	'url'=>'http://www.BozorgSite.ir', // http://xxxxxxxxxxxxx
+	'version_supported'=>array('1.0', '1.0.1') // Bozorg Site version supported
+);
+
+?>

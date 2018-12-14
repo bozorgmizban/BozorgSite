@@ -8,7 +8,7 @@ foreach($themes_list as $theme)
 		$class='theme-installed';
 
 	echo '<div class="theme '.$class.'">';
-		echo '<div class="theme-img"><img src="'.HTML_PATH_THEMES.$theme['dir'].'/screenshot.jpg"/></div>';
+		echo '<div class="theme-img"><img src="'.HTML_PATH_THEMES.$theme['dir'].'/screenshot.png"/></div>';
 		echo '<div class="theme-data">';
 			echo '<h2 class="name">'.$theme['name'].'</h2>';
 			echo '<p class="description">'.$theme['description'].'</p>';
