@@ -2,6 +2,12 @@
 
 echo Html::form_open( array('id'=>'js_form', 'name'=>'form', 'method'=>'post') );
 
+		// LANGUAGE
+		echo Html::div_open( array('class'=>'form_block') );
+			echo Html::label( array('content'=>$_LANG['LANGUAGE'], 'class'=>'blocked') );
+			echo Html::select( array('id'=>'js_language', 'name'=>'language'), $languages_html, $settings['language']);
+		echo Html::div_close();
+
 		// TIMEZONE
 		echo Html::div_open( array('class'=>'form_block') );
 			echo Html::label( array('content'=>$_LANG['TIMEZONE'], 'class'=>'blocked') );
